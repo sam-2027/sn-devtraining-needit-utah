@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_visualization">
+    <par_visualization action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <certified>false</certified>
+        <description/>
+        <macroponent display_value="List">7ff373544303121093711347efb8f23c</macroponent>
+        <name>Count by API Method</name>
+        <properties>{"metrics":[{"aggregateFunction":"COUNT","axisId":"primary","dataSource":"dGFibGVzeXNfYXBpX3N0YXRzMTc4MDk0ODExMjgxMjMzNjc2MjY1LjU2NTI4ODEzNA==","id":"ZEdGaWJHVnplWE5mWVhCcFgzTjBZWFJ6TVRjNE1EazBPREV4TWpneE1qTXpOamMyTWpZMUxqVTJOVEk0T0RFek5BPT0xNzgwOTQ4MTEyODE0NjI1NzcxMjEuNTQ4NDkwMjQ=","numberFormat":{"customFormat":true,"abbreviationEnabled":true,"numberInTooltipsEnabled":true},"durationFormat":{"customFormat":false},"dateFormat":{"customFormat":false},"stringFormat":{"customFormat":false}}],"table":"sys_api_stats","columns":"number,opened_at,short_description,caller_id,priority,state,category,assignment_group,assigned_to,sys_updated_on,sys_updated_by","dataSources":[{"allowRealTime":true,"dataCategories":["trend","group","simple"],"filterQuery":null,"id":"dGFibGVzeXNfYXBpX3N0YXRzMTc4MDk0ODExMjgxMjMzNjc2MjY1LjU2NTI4ODEzNA==","isDatabaseView":false,"label":null,"sourceType":"table","tableOrViewName":"sys_api_stats"}],"emptyStateAlignment":"vertical-centered","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateIllustration":"no-data","enableCustomEmptyState":false,"enableDrilldown":true,"enableRealTimeUpdate":false,"filterConfigurations":"@state.parFilters","followFilters":false,"groupByField":null,"groupBy":null,"hideDotwalk":false,"limit":10,"maxCharLimit":4000,"showColumnFiltering":true,"showColumnGrouping":true,"showColumnReorder":true,"showColumnResizing":true,"showColumnSorting":true,"showFilterIcon":false,"showHeader":true,"headerTitle":"Count by API Method","showHeaderSeparator":false,"showInlineEditing":true,"showLinks":true,"showPersonalization":true,"showViewAll":true,"allowListPagination":true,"preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"showBorder":true,"wrapTitle":false,"showLoadingIndicator":false}</properties>
+        <requested_by/>
+        <scheduled_count>0</scheduled_count>
+        <sys_class_name>par_visualization</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-08 19:48:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0fe0cf6f67c0e0c1913faaf431af578e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Count by API Method</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_visualization_0fe0cf6f67c0e0c1913faaf431af578e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-08 19:48:35</sys_updated_on>
+        <type>List</type>
+    </par_visualization>
+</record_update>
